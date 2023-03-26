@@ -1,0 +1,22 @@
+{
+   "jugador1": {
+      "datos":{
+            "nombre": "Pepito",
+            "apellido1": "Pérez"
+              }, 
+      "retos":{
+            "LMSGI": {
+               "puntos":"1",
+               "retos": ["01-10-2022"]
+
+            },
+            "GBD": {
+               "puntos":"2",
+               "retos": ["01-10-2022","02-10-2022"]
+
+            },
+            
+          }  
+      }  
+    
+}
