@@ -1,5 +1,4 @@
-{
-   "jugador":
+[
    {
       "usuario":"jugador1",
       "nombre": "Pepito",
@@ -19,7 +18,28 @@
 
             }
       }      
-   }
+   },
+   {
+      "usuario":"jugador2",
+      "nombre": "Mariquilla",
+      "apellido1": "Pérez",
+      "retos":
+      {
+            "LMSGI": 
+            {
+               "puntos":"3",
+               "retosganados": ["01-10-2022"]
+
+            },
+            "GBD": 
+            {
+               "puntos":"2",
+               "retosganados": ["01-10-2022","02-10-2022"]
+
+            }
+      }      
+   },
+
     
-}
+]
 
