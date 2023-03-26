@@ -1,4 +1,5 @@
-[
+{
+   "jugadores:":[
    {
       "usuario":"jugador1",
       "nombre": "Pepito",
@@ -38,8 +39,8 @@
 
             }
       }      
-   },
+   }
 
     
 ]
-
+}
